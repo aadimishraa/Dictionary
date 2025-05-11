@@ -22,10 +22,10 @@ To run the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/aadimishraa/dictionary.git
+git clone https://github.com/aadimishraa/Dictionary.git
 
 # Navigate to the project folder
-cd dictionary
+cd Dictionary
 
 # Install dependencies
 npm install
