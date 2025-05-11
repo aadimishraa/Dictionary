@@ -1,0 +1,51 @@
+* {
+  margin: 2% 0% 0% 0%;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cursive;
+  font-size: 25px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: burlywood;
+}
+
+.heading{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 40px;
+}
+
+.formContainer{
+  margin: 2%;
+  padding: 2%;
+}
+
+.input{
+  margin-left: 25%;
+  padding-right: 3%;
+}
+
+.submitButton{
+  margin-top: 5%;
+  margin-left: 50%;
+  margin-right: 50%;
+  background-color: burlywood;
+  border: none;
+  cursor: pointer;
+}
+
+.submitButton:hover{
+  background-color: rgb(239, 118, 6);
+}
+
+
+.inputContainer{
+  background-color: rgb(238, 118, 6);
+}
+
+
+
+.meaning{
+  text-align: center;
+}
